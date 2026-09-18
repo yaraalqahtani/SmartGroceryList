@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mint_green">#4FB894</color>
+    <color name="mint_green_dark">#358A70</color>
+    <color name="mint_green_light">#DFF5EC</color>
+    <color name="soft_yellow">#FFE8A3</color>
+    <color name="light_orange">#FFC48C</color>
+    <color name="off_white">#FAFAF7</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_primary">#263238</color>
+    <color name="text_secondary">#78909C</color>
+    <color name="delete_red">#E57373</color>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Grocery List</string>
+    <string name="home_subtitle">Your shopping list, made simple 🛒</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_my_list">My List</string>
+    <string name="add_label">Add</string>
+    <string name="added_label">Added</string>
+    <string name="clear_all">Clear All</string>
+    <string name="clear_all_title">Clear shopping list?</string>
+    <string name="clear_all_message">This will remove all items from your shopping list. This action cannot be undone.</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="empty_list_message">Your list is empty.\nAdd some products from Home.</string>
+    <string name="item_count_singular">1 item</string>
+    <string name="item_count_plural">%d items</string>
+</resources>

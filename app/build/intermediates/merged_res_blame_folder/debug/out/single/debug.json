@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/drawable_bg_button_primary.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/drawable/bg_button_primary.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/drawable_ic_cat_sweeteners.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/drawable/ic_cat_sweeteners.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/drawable_ic_home.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/drawable_ic_cat_personal.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/drawable/ic_cat_personal.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/layout_activity_products.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/layout/activity_products.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/drawable_ic_cat_paper.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/drawable/ic_cat_paper.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/drawable_ic_cat_other.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/drawable/ic_cat_other.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/drawable_bg_button_outline.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/drawable/bg_button_outline.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/color_bottom_nav_item_color.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/color/bottom_nav_item_color.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/drawable_ic_cat_meat.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/drawable/ic_cat_meat.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/drawable_ic_launcher.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/drawable_bg_circle_icon.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/drawable/bg_circle_icon.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/drawable_ic_cat_dairy.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/drawable/ic_cat_dairy.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/layout_fragment_home.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/drawable_ic_cat_spices.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/drawable/ic_cat_spices.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/drawable_ic_cat_beverages.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/drawable/ic_cat_beverages.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/drawable_ic_list.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/drawable/ic_list.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/drawable_ic_add.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/drawable_bg_button_added.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/drawable/bg_button_added.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/layout_item_grocery.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/layout/item_grocery.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/layout_item_category.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/layout/item_category.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/drawable_ic_delete.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/layout_activity_main.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/drawable_ic_cat_canned.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/drawable/ic_cat_canned.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/drawable_ic_launcher_round.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/drawable/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/layout_fragment_my_list.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/layout/fragment_my_list.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/drawable_ic_cat_frozen.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/drawable/ic_cat_frozen.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/drawable_ic_cat_fruits.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/drawable/ic_cat_fruits.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/drawable_ic_cat_cleaning.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/drawable/ic_cat_cleaning.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/drawable_ic_cat_bakery.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/drawable/ic_cat_bakery.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/drawable_ic_cat_basic.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/drawable/ic_cat_basic.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/drawable_ic_cat_baby.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/drawable/ic_cat_baby.xml"
+    },
+    {
+        "merged": "com.example.smartgrocerylist.app-merged_res-4:/layout_item_product.xml.flat",
+        "source": "com.example.smartgrocerylist.app-main-6:/layout/item_product.xml"
+    }
+]
